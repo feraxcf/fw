@@ -1,1 +1,1 @@
-curl -o /mnt/lib/firmware/iwlwifi-QuZ-a0-hr-b0-77.ucode https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/plain/intel/iwlwifi/iwlwifi-QuZ-a0-hr-b0-77.ucode
+curl -o /lib/firmware/iwlwifi-QuZ-a0-hr-b0-77.ucode https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/plain/intel/iwlwifi/iwlwifi-QuZ-a0-hr-b0-77.ucode
